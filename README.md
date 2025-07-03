@@ -64,6 +64,7 @@ The dataset is programmatically created using sample sales data and stored in a 
 * The dataset is automatically recreated every time the notebook is run.
 * The project can be extended to include date filters, time-based trends, or multi-category analysis.
 
-## CREATED BY :
+
+# CREATED BY :
 # CHITRARTH VASDEV
 
